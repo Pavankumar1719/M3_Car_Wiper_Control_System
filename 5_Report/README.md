@@ -7,7 +7,8 @@ In this proect we will build manually controlled wiper control system. We built 
 
 ## Block Diagram
 
-![control system]
+![control_system](https://user-images.githubusercontent.com/102242702/168417729-f629bafa-d956-438c-b1d7-0b6923a3f8e2.PNG)
+
 
 ### The working of motor is visualized in terms of LED action in STM32F4 - Discovery
 
@@ -35,7 +36,8 @@ In this proect we will build manually controlled wiper control system. We built 
 
 ## Flow chart
 
-![Flow Chart]
+![Flow Chart](https://user-images.githubusercontent.com/102242702/168417774-f882de73-14de-4c8a-8a9e-853a201430c5.png)
+
 
 ## How the project works
 1.  __Ignition Key Position at ACC:__ The Red LED is ON, if the user button is pressed and held for 2 secs
