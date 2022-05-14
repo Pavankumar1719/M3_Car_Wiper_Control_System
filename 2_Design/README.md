@@ -2,17 +2,19 @@
 
   ## 1. User behavior diagram - High Level
   
-  ![Behaviour Flow](https://github.com/Lokesh12121/M3_Wiper_Conytol_System_stm32f4/blob/main/2_Design/user_behavior.png)
-  
+  ![Behaviour Flow](https://user-images.githubusercontent.com/102242702/168428584-a11f7646-1f82-4c04-9b46-8ac38a2def7c.PNG)
+
   ### The working of motor is visualised using LEDs of STM32F4 
    
    ## 2. Structure Diagram - Low Level
   
-   ![Structure Diagram](https://github.com/Lokesh12121/M3_Wiper_Conytol_System_stm32f4/blob/main/2_Design/flow%20chart_1.png)
+   ![Structure Diagram](https://user-images.githubusercontent.com/102242702/168428602-2bb3859c-2304-4a61-8509-d664d3c68948.png)
+
    
 # Block Diagram Model
 
-![block diagam](https://github.com/Lokesh12121/M3_Wiper_Conytol_System_stm32f4/blob/main/0_Abstract/control_system.png)
+![block diagam](https://user-images.githubusercontent.com/102242702/168428543-7c6478a5-28da-494d-9e5c-6011c4a03ff5.PNG)
+
 
 ### The working of motor is visualised via LEDs of STM32F4 Discovery Board
    
