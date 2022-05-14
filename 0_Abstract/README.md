@@ -7,7 +7,7 @@ In this project we will build manually controlled wiper control system. We built
 
 ## Block Diagram
 
-![control system](https://github.com/Lokesh12121/M3_Wiper_Conytol_System_stm32f4/blob/main/0_Abstract/control_system.png)
+![control_system](https://user-images.githubusercontent.com/102242702/168417695-cf1b906c-6b3b-4d27-867d-8a1f8513838f.PNG)
 
 ### The working of motor is visualized in terms of LED action in STM32F4 - Discovery
 
