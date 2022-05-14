@@ -1,19 +1,18 @@
 ### High Level Test Plan
 | Test ID  | Description | Exp I/P | Exp O/P | Actual O/P | Type of Test |
 | ------------- | ------------- | ------------------------------- | ------- | --------  | ----------- |
-| HL_1  |  |
-| HL_2  |  |
-| HL_3  |  |
-| HL_4  |  |
+| HL_1  | Press Push button once LED ON | Pass | Pass | Speed test for wiper level-1 |
+| HL_2  | Press Push button 2nd time LED ON | Pass | Pass | Speed test for wiper level-2 |
+| HL_3  | Press Push button 3rd time LED ON | Pass | Pass | Speed test for wiper level-3 |
+| HL_4  | Press and Hold push button | Pass | Pass | To check whether it is on/off |
 
 ### Low Level Test Plan
 | Test ID | Description | I/P | O/P | Status  |
 | ------------- | ------------- | ------- | ------- | ------- |
-| LL_1 |  |
-| LL_2 |  |
-| LL_3 |  |
-| LL_3 |  |
-| LL_4 |  |
+| LL_1 | Press push button for 4th time | Pass | Pass | Wiper gets turn off |
+| LL_2 | Press push button for 5th time | Pass | Pass | Once again it repeate back to step HL_2 |
+| LL_3 | Press and Hold for 2second Push button | Pass | Pass | RED LED gets turn on indicates ignition on | 
+
 
 # Results
 
