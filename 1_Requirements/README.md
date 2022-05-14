@@ -37,9 +37,10 @@ For all LMV and HMV needs this system. The wiper serves to clean the windshield 
  :-1: **Cons :**  It is not automated using any rain sensors
  
 ### 3. SWOT Analysis
-
+![swot](https://user-images.githubusercontent.com/102242702/168428822-44d80f91-777b-4b09-b9f0-71f560eb0188.PNG)
   
 ### 4. Implementation Block Diagram 
+![control_system](https://user-images.githubusercontent.com/102242702/168428845-1e38d012-7239-4e50-8d5f-b968a1df46a2.PNG)
 
 
 ### The working of motor is visualised via LED's in STM32F4 Discovey Board
