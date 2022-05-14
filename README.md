@@ -37,5 +37,6 @@ In this proect we will build manually controlled wiper control system. We built 
 
 | Cppcheck | Codacy | Build CI | Git_Inspector |  
 |:--:|:--:|:--:|:--:|  
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2fe79d06ef1e435aab99ea25c3ab1edf)](https://app.codacy.com/gh/Pavankumar1719/M3_Car_Wiper_Control_System?utm_source=github.com&utm_medium=referral&utm_content=Pavankumar1719/M3_Car_Wiper_Control_System&utm_campaign=Badge_Grade_Settings)
 | [![Cppcheck](https://github.com/Pavankumar1719/M3_Car_Wiper_Control_System/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Pavankumar1719/M3_Car_Wiper_Control_System/actions/workflows/cpp_check.yml) |  | [![Build_CI - Linux](https://github.com/Pavankumar1719/M3_Car_Wiper_Control_System/actions/workflows/Build_CI_Linux.yml/badge.svg)](https://github.com/Pavankumar1719/M3_Car_Wiper_Control_System/actions/workflows/Build_CI_Linux.yml) [![Bulid CI - windows](https://github.com/Pavankumar1719/M3_Car_Wiper_Control_System/actions/workflows/Build_CI_WIn.yml/badge.svg)](https://github.com/Pavankumar1719/M3_Car_Wiper_Control_System/actions/workflows/Build_CI_WIn.yml) | [![Git Inspector](https://github.com/Pavankumar1719/M3_Car_Wiper_Control_System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Pavankumar1719/M3_Car_Wiper_Control_System/actions/workflows/gitinspector.yml)|
 
