@@ -1,19 +1,19 @@
 ### High Level Test Plan
 | Test ID  | Description | Exp I/P | Exp O/P | Actual O/P | Type of Test |
 | ------------- | ------------- | ------------------------------- | ------- | --------  | ----------- |
-| HL_1  | Microcontroller - STM32F4 board |
-| HL_2  | Software for simulation |
-| HL_3  | LED |
-| HL_4  | Push button |
+| HL_1  |  |
+| HL_2  |  |
+| HL_3  |  |
+| HL_4  |  |
 
 ### Low Level Test Plan
 | Test ID | Description | I/P | O/P | Status  |
 | ------------- | ------------- | ------- | ------- | ------- |
-| LL_1 | STM32F4 discovery  |
-| LL_2 | avr gcc |
-| LL_3 | xPack - Qemu, xPack - Windows Build Tool, Pack - OpenOCD |
-| LL_3 | STM32 Cube IDE |
-| LL_4 | I/O PD12, PD13, PD14, PD15 on STM32F407VGT6 |
+| LL_1 |  |
+| LL_2 |  |
+| LL_3 |  |
+| LL_3 |  |
+| LL_4 |  |
 
 # Results
 
