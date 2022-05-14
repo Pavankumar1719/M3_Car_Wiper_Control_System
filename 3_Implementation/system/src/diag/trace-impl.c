@@ -271,3 +271,4 @@ _trace_write_semihosting_debug (const char* buf, size_t nbyte)
 #endif // TRACE
 
 // ----------------------------------------------------------------------------
+
