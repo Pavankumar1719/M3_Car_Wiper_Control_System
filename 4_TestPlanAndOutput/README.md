@@ -1,26 +1,25 @@
-# 1.1 HIGH LEVEL TEST PLAN
+# 1. HIGH LEVEL TEST PLAN
 
 | Test ID | Description | Input | Expected output | Actual Output | Test Type |
 | --- | --- | --- | --- | --- | --- |
 | 01 | Ignition ON | User Button Press and hold for 2sec | Red LED ON | Red LED ON | Scenario indicating System ON |
-| 02 | Viper ON | User Button Press Button 1st tme  | Blue, Green, Orange LEDs Flicker with 1Hz | Blue, Green, Orange LEDs Flicker with 1Hz  | Scenario-Wiper power level-1 |
-| 03 | Viper ON | User Button Press Button 2nd time | Blue, Green, Orange LEDs Flicker with 4Hz | Blue, Green, Orange LEDs Flicker with 4Hz  | Scenario-Wiper power level-2 |
-| 04 | Viper ON | User Button Press Button 3rd time | Blue, Green, Orange LEDs Flicker with 8Hz | Blue, Green, Orange LEDs Flicker with 8Hz  | Scenario-Wiper power level-3 |
+| 02 | Viper ON | User Button Press Button 1st tme  | Blue, Green, Orange LEDs Flicker with 1Hz | Blue, Green, Orange LEDs Flicker with 1Hz  | Wiper power level-1 |
+| 03 | Viper ON | User Button Press Button 2nd time | Blue, Green, Orange LEDs Flicker with 4Hz | Blue, Green, Orange LEDs Flicker with 4Hz  | Wiper power level-2 |
+| 04 | Viper ON | User Button Press Button 3rd time | Blue, Green, Orange LEDs Flicker with 8Hz | Blue, Green, Orange LEDs Flicker with 8Hz  | Wiper power level-3 |
 | 05 | Ignition OFF | User Button Press and hold for 2sec |  Red LED OFF | Red LED OFF | Scenario indicating System OFF |
 
-# 1.2 LOW LEVEL TEST PLAN
+# 2. LOW LEVEL TEST PLAN
 ### For LEDs
 | Test ID | Description | Input | Expected output | Actual Output | Test Type |
 | --- | --- | --- | --- | --- | --- |
-| 01 | Check for Ignition ON | Button Press and hold for 2sec | RED LED ON | RED LED ON | Test and view in hardware |
-| 02 | Check for Wiper power level-1 | Button Press 1st time | All LEDs ON | All LEDs ON-1Hz | Test and view in hardware |
-| 03 | Check for Wiper power level-2 | Button Press 2nd time | All LEDs ON | All LEDs ON-4Hz| Test and view in hardware |
-| 04 | Check for Wiper power level-3 | Button Press 3rd time | All LEDs ON | All LEDs ON-8Hz | Test and view in hardware |
-| 04 | Check for Ignition OFF | Button Press and hold for 2sec | RED LED OFF | RED LED OFF | Test and view in hardware |
+| 01 | Check for Ignition ON | Button Press and hold for 2sec | Pass | Pass | Test and view in hardware |
+| 02 | Check for Wiper power level-1 | Button Press 1st time | Pass | Pass | Test and view in hardware |
+| 03 | Check for Wiper power level-2 | Button Press 2nd time | Pass | Pass | Test and view in hardware |
+| 04 | Check for Wiper power level-3 | Button Press 3rd time | Pass | Pass | Test and view in hardware |
+| 05 | Check for Ignition OFF | Button Press and hold for 2sec | Pass | Pass | Test and view in hardware |
 
 # Results
 
-## Working Scenario
 |Key Press - 1 (Wiper power Lvl-1)|Key Press - 2 (Wiper power Lvl-2)|Key Press - 3 (Wiper power Lvl-3)|
 |:--:|:--:|:--:|
 | ![Key Press - 1](https://user-images.githubusercontent.com/102242702/168414064-1af31028-342e-4f3e-a754-2bf0bc005abe.gif)  | ![Key Press - 2](https://user-images.githubusercontent.com/102242702/168414162-cab0228e-49cf-4fe9-94c9-221a714964fa.gif)  |  ![Key Press - 3](https://user-images.githubusercontent.com/102242702/168414183-5be8a852-5448-423c-8987-b6551201608e.gif) |
