@@ -6,6 +6,8 @@ In this proect we will build manually controlled wiper control system. We built 
 ## Block Diagram
 ![control_system](https://user-images.githubusercontent.com/102242702/168429618-b5eff371-0eba-4c88-8d18-7f1ef6a6bd07.PNG)
 
+## User behavior diagram
+![Behaviour Flow](https://user-images.githubusercontent.com/102242702/168428584-a11f7646-1f82-4c04-9b46-8ac38a2def7c.PNG)
 
 ### The working of motor is visualised via LEDs in STM32F4 - Discovery board
 
@@ -24,7 +26,7 @@ In this proect we will build manually controlled wiper control system. We built 
 |:--:|:--:|
 |![ON_state](https://user-images.githubusercontent.com/102242702/168435768-e09abd59-d5f8-4c3d-a6bc-be91eb70399a.gif)|![OFF_state](https://user-images.githubusercontent.com/102242702/168435826-d471a44e-1dae-4bbf-9c49-de63221ffe3c.gif)|
 
-## Working Scenario
+## RESULTS
 |Key Press - 1 (Wiper power Lvl-1)|Key Press - 2 (Wiper power Lvl-2)|Key Press - 3 (Wiper power Lvl-3)|
 |:--:|:--:|:--:|
 |![Key Press - 1](https://user-images.githubusercontent.com/102242702/168429757-4e2183f4-f1e6-4d36-9d34-30a270af1836.gif)|![Key Press - 2](https://user-images.githubusercontent.com/102242702/168429794-b16cbcf2-8f16-4752-9f27-331b0e7af90e.gif)|![Key Press - 3](https://user-images.githubusercontent.com/102242702/168429826-c2a0c931-2765-426a-82fb-70ada7ce75a1.gif)|
