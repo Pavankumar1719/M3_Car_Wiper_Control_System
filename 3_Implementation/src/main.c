@@ -61,12 +61,12 @@
 
 // ----- main() ---------------------------------------------------------------
 
-// Sample pragmas to cope with warnings. Please note the related line at
+// Sample programs to cope with warnings. Please note the related line at
 // the end of this function, used to pop the compiler diagnostics status.
-#pragma GCC diagnostic push
-#pragma GCC diagnostic ignored "-Wunused-parameter"
-#pragma GCC diagnostic ignored "-Wmissing-declarations"
-#pragma GCC diagnostic ignored "-Wreturn-type"
+#program GCC diagnostic push
+#program GCC diagnostic ignored "-Wunused-parameter"
+#program GCC diagnostic ignored "-Wmissing-declarations"
+#program GCC diagnostic ignored "-Wreturn-type"
 
 int GREEN=12,ORANGE=13,RED=14,BLUE=15;
 uint8_t flag=0;
