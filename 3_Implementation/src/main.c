@@ -37,11 +37,7 @@
 // ----------------------------------------------------------------------------
 //
 // Standalone STM32F4 led blink sample (trace via DEBUG).
-//
-// In debug configurations, demonstrate how to print a greeting message
-// on the trace device. In release configurations the message is
-// simply discarded.
-//
+
 // Then demonstrates how to blink a led with 1 Hz, using a
 // continuous loop and SysTick delays.
 //
@@ -78,11 +74,10 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin);
 int
 main(int argc, char* argv[])
 {
-  // Send a greeting to the trace device (skipped on Release).
+ 
   trace_puts("Hello Arm World!");
 
-  // At this stage the system clock should have already been configured
-  // at high speed.
+
   trace_printf("System clock: %u Hz\n", SystemCoreClock);
 
   timer_start();
@@ -151,7 +146,7 @@ main(int argc, char* argv[])
 		  }
 	  }
     }
-  // Infinite loop, never return.
+
 }
 
 void EXTI0_IRQHandler(void)
